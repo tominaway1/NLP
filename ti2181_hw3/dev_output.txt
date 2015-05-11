@@ -1,0 +1,252 @@
+These are the top words for "tribunal"
+"gerichtshof" with probability 0.191007547977
+"kriegsgericht" with probability 0.127303485603
+"tribunal" with probability 0.0717129797675
+"gab" with probability 0.0695107920146
+"ein" with probability 0.0652702966938
+"dem" with probability 0.0393661021398
+"internationalen" with probability 0.027453948968
+"uneingeschr&auml;nkt" with probability 0.0233897079299
+"g&uuml;ltig" with probability 0.0233750886097
+"kann" with probability 0.018643227471
+
+These are the top words for "anxiety"
+"besorgnis" with probability 0.117776558511
+"ausdruck" with probability 0.0887836828645
+"st&auml;rker" with probability 0.0779240330214
+"strecke" with probability 0.0640673701251
+"existiert" with probability 0.064066989386
+"angst" with probability 0.0640617672445
+"bleiben" with probability 0.0601994420459
+"zunehmen" with probability 0.053403952185
+"saal" with probability 0.0462383413151
+"liegt" with probability 0.0447758410741
+
+These are the top words for "consume"
+"viel" with probability 0.0860504973572
+"verbrauchen" with probability 0.0846144673072
+"energie" with probability 0.0827662732227
+"uns" with probability 0.0630539496856
+"verbraucht" with probability 0.0507726125203
+"heizen" with probability 0.0254128329687
+"papierindustrie" with probability 0.0254128329687
+"f&uuml;rs" with probability 0.0254128308837
+"schwerpunkt" with probability 0.02540999381
+"nordischen" with probability 0.0254017357319
+
+These are the top words for "mediator"
+"vermittler" with probability 0.204373969425
+"ansonsten" with probability 0.0677980762093
+"einzig" with probability 0.0677414622685
+"betrachten" with probability 0.0676473555277
+"m&ouml;glichen" with probability 0.0623344532043
+"dorthin" with probability 0.0618718648312
+"stellen" with probability 0.0599775062239
+"spricht" with probability 0.0504647274172
+"entsandt" with probability 0.0496143277777
+"t&auml;glich" with probability 0.0462148249463
+
+These are the top words for "i"
+"ich" with probability 0.686504900629
+"," with probability 0.075317759218
+"." with probability 0.0428277783919
+"m&ouml;chte" with probability 0.0284286960098
+"da&szlig;" with probability 0.0263171869208
+"habe" with probability 0.0251209683156
+"mich" with probability 0.0139630200561
+"mir" with probability 0.00926865256936
+"die" with probability 0.00703439037653
+"zu" with probability 0.00650305431371
+
+These are the top words for "wood"
+"viel" with probability 0.080955530222
+"holz" with probability 0.0779569540778
+"w&auml;ldern" with probability 0.0779569540778
+"abfallholz" with probability 0.0779569540778
+"finnischen" with probability 0.0779567901296
+"nutzt" with probability 0.077956336468
+"liegen" with probability 0.0777729313282
+";" with probability 0.071327095633
+"wald" with probability 0.068150421041
+"riesige" with probability 0.0669281329333
+
+These are the top words for "prefers"
+"beibeh&auml;lt" with probability 0.0607630097393
+"seiner" with probability 0.0600238669056
+"akzeptieren" with probability 0.0599251188461
+"verfahren" with probability 0.0538180637191
+"wahl" with probability 0.0435119671608
+"&auml;hnliche" with probability 0.0428648865448
+"spezifischen" with probability 0.0428646885006
+"inhaltlich" with probability 0.0428637906902
+"kompromi&szlig;" with probability 0.0428634738432
+"standpunkte" with probability 0.0428631853767
+
+These are the top words for "bill"
+"rechnung" with probability 0.157481354153
+"hotelrechnung" with probability 0.0888504392972
+"sitzungswoche" with probability 0.0888504391632
+"pr&auml;sentiert" with probability 0.0886527057068
+"gegen&uuml;ber" with probability 0.0849589617885
+"mir" with probability 0.0732569268262
+"einem" with probability 0.0566733208166
+"nur" with probability 0.0427528822358
+"eine" with probability 0.0265134289621
+"unzureichendes" with probability 0.0240394417975
+
+These are the top words for "dog"
+"postalis" with probability 0.072105390955
+"esse" with probability 0.072105390955
+"&uuml;bersetzen" with probability 0.072105390955
+"k&uuml;chenlatein" with probability 0.072105390955
+"cato" with probability 0.072105390955
+"servitium" with probability 0.072105390955
+"delendum" with probability 0.072105390955
+"stehen" with probability 0.0719678758919
+"darf" with probability 0.0715058266304
+"jetzt" with probability 0.0696803163027
+
+These are the top words for "agent"
+"verringern" with probability 0.153229790354
+"kommen" with probability 0.115366460598
+"ber&uuml;hrung" with probability 0.107448539756
+"sind" with probability 0.0426226239176
+"erreger" with probability 0.0301406719894
+"ausschlie&szlig;t" with probability 0.0301404592074
+"gef&auml;hrdung" with probability 0.0301403393086
+"lie&szlig;e" with probability 0.0301375519778
+"gekommen" with probability 0.0301171997192
+"inaktivierung" with probability 0.0299077566855
+
+These are the top words for "junta"
+"milit&auml;rjunta" with probability 0.404605969059
+"junta" with probability 0.263185614948
+"der" with probability 0.031144747203
+"herrschenden" with probability 0.0242720358203
+"die" with probability 0.0230145370224
+"hatte" with probability 0.0229275044817
+"festgenommen" with probability 0.0221602548293
+"," with probability 0.0119320259214
+"man" with probability 0.0112320366676
+"repressionsma&szlig;nahmen" with probability 0.00979026149107
+
+These are the top words for "fix"
+"bescheinigen" with probability 0.0915544527897
+"festlegen" with probability 0.0915543267528
+"gegeben" with probability 0.0776153517107
+"einen" with probability 0.0635268011018
+"wertgrenzen" with probability 0.0422729977397
+"festlegung" with probability 0.042272375384
+"faktum" with probability 0.0422711750658
+"kompetenz" with probability 0.0422547795489
+"einzelne" with probability 0.0422247743817
+"abhaltung" with probability 0.0384671167336
+
+These are the top words for "keys"
+"herr" with probability 0.0566906785972
+"faktors" with probability 0.0509984330775
+"33" with probability 0.0509984330311
+"steuerliche" with probability 0.0509984330148
+"verringert" with probability 0.0509984327825
+"belastung" with probability 0.050998430266
+"sch&ouml;n" with probability 0.0509984282373
+"durchgef&uuml;hrt" with probability 0.050995820056
+"cassidy" with probability 0.0509935343812
+"punkt" with probability 0.0508877288062
+
+These are the top words for "anniversary"
+"jahrestag" with probability 0.348805422662
+"zehnten" with probability 0.117075233645
+"um" with probability 0.0729363900581
+"so" with probability 0.0302772376581
+"redet" with probability 0.0296281819752
+"alleine" with probability 0.0282817732976
+"manche" with probability 0.028265166325
+"am" with probability 0.0267635325813
+"gar" with probability 0.0257401180641
+"zehnj&auml;hrige" with probability 0.0229426387154
+
+These are the top words for "visa"
+"l&auml;nder" with probability 0.0578985374191
+"visumpflicht" with probability 0.0450189050035
+"fl&uuml;chtlingspolitik" with probability 0.0450189050035
+"visum-" with probability 0.0450189050035
+"erweiterte" with probability 0.0450189048642
+"versch&auml;rft" with probability 0.0449230471148
+"wird" with probability 0.0447605713874
+"visumbestimmungen" with probability 0.0330367299625
+"harmonisiert" with probability 0.0330367210721
+"einreise" with probability 0.0330366960077
+
+These are the top words for "depicted"
+"wieder" with probability 0.212266182925
+"immer" with probability 0.211825905772
+"differenzierten" with probability 0.0465248062839
+"differenzierter" with probability 0.0465248062839
+"holzschnittartig" with probability 0.0465248062839
+"ansonsten" with probability 0.0465247796534
+"gef&auml;llt" with probability 0.046523944587
+"dargestellt" with probability 0.0465155195432
+"gut" with probability 0.0452751106539
+"mir" with probability 0.0397161555473
+
+These are the top words for "everyday"
+"normalerweise" with probability 0.107508497834
+"funktioniert" with probability 0.106887889533
+"alltags" with probability 0.106440001706
+"hinaus" with probability 0.106230992293
+"zolls" with probability 0.106006145057
+"drogenbek&auml;mpfung" with probability 0.10411856096
+"dar&uuml;ber" with probability 0.100922517789
+"des" with probability 0.100065182342
+"gef&auml;ngnisstrafe" with probability 0.0333404770626
+"normalen" with probability 0.0333404688148
+
+These are the top words for "naming"
+"soll" with probability 0.156368551671
+"erw&auml;hnung" with probability 0.127250340544
+"meinen" with probability 0.125955361765
+"herstellernamens" with probability 0.0697274875648
+"gedacht" with probability 0.0697269554071
+"erg&auml;nzung" with probability 0.0688384154515
+"beunruhigt" with probability 0.0362054572384
+"erscheinen" with probability 0.0362052570527
+"tatsache" with probability 0.03603976364
+"berichterstatterin" with probability 0.0345292870838
+
+These are the top words for "ocean"
+"stein" with probability 0.164074292802
+"tropfen" with probability 0.164074292802
+"hei&szlig;en" with probability 0.164049532368
+"dar&uuml;ber" with probability 0.0866345976251
+"klaren" with probability 0.0783144877921
+"m&uuml;ssen" with probability 0.0330476044785
+"uns" with probability 0.032550322512
+"sind" with probability 0.0307636302785
+"sein" with probability 0.0303688344428
+"auf" with probability 0.0294955261425
+
+These are the top words for "dimension"
+"dimension" with probability 0.662643222367
+"der" with probability 0.0219853470636
+"die" with probability 0.0211747725105
+"besch&auml;ftigungsinitiative" with probability 0.0179115657327
+"folglich" with probability 0.0166602413935
+"geboten" with probability 0.0162124678492
+"erscheint" with probability 0.0153879026871
+"sozialfonds" with probability 0.0149067974483
+"wichtiger" with probability 0.0127722870361
+"wichtiges" with probability 0.0108362608197
+
+These are the top words for "man"
+"mann" with probability 0.2641773307
+"mensch" with probability 0.118876170056
+"wie" with probability 0.0925822900554
+"ehrenwerter" with probability 0.0434433853968
+"wortwahl" with probability 0.0434433853968
+"," with probability 0.0326482780648
+"man" with probability 0.0238184785874
+"ein" with probability 0.0193028637877
+"mu&szlig;" with probability 0.0186179345249
+"f&uuml;r" with probability 0.0168339038786
+
